@@ -1,5 +1,5 @@
 # Verilog_CPU
-Simple MIPS CPU for Computer Achitecture and Design made in Verilog. 
+Simple MIPS CPU for Computer Achitecture and Organization made in Verilog. 
 
 This code was all made in Vivado 2016.2. In theory, it should work in other versions of Vivado or similar programs, but I can't make any guarantees. Set the top module to cpu5.v, or cpu5_testbench.v to test it. 
 
